@@ -1,5 +1,7 @@
 # Hi, I'm Ramji B! 👋
 
+![Developer Banner](https://source.unsplash.com/1600x400/?technology,coding)
+
 ## 🚀 A Passionate Full Stack Developer from India
 
 I specialize in building scalable web applications, focusing on both frontend and backend development. Currently, I am expanding my expertise in Cloud Engineering to create robust and efficient solutions.
@@ -7,6 +9,7 @@ I specialize in building scalable web applications, focusing on both frontend an
 ---
 
 ## 📫 Connect With Me:
+![Contact](https://source.unsplash.com/200x100/?email,phone)
 - 📍 **Location:** 23 Src Nagar, Ganapathipalayam, Tirupur 641-605
 - 📞 **Phone:** 6383667872
 - ✉️ **Email:** [itzrvm2337@gmail.com](mailto:itzrvm2337@gmail.com)
@@ -15,12 +18,14 @@ I specialize in building scalable web applications, focusing on both frontend an
 ---
 
 ## 🎓 Education
+![Education](https://source.unsplash.com/200x100/?graduation,books)
 **KPR Institute of Engineering and Technology** (2023 - 2027)  
 📖 **BE - Computer Science and Engineering** (CGPA: 8.00) - II Year
 
 ---
 
 ## 💻 Skills
+![Skills](https://source.unsplash.com/200x100/?technology,coding)
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, ReactJS, Next.js
 - **Backend:** Node.js, Express.js, Firebase
 - **Database:** PostgreSQL
@@ -32,10 +37,12 @@ I specialize in building scalable web applications, focusing on both frontend an
 
 ## 🌟 Projects
 ### 🚗 Parking Website
+![Parking](https://source.unsplash.com/200x100/?car,parking)
 🔗 **[Live Link](#) | [GitHub Link](#)**  
 A team-based parking management website that enables users to search for available parking spaces, book a spot in real-time, and manage bookings. It integrates IoT-based number plate recognition for automated entry and exit, enhancing efficiency and convenience.
 
 ### 🤖 AI-Integrated Application (AI Navigator)
+![AI](https://source.unsplash.com/200x100/?artificial,intelligence)
 🔗 **[Live Link](#) | [GitHub Link](#)**  
 A feature-rich web app built using ReactJS and Tailwind CSS, integrating:
 - **Gemini API** for dynamic conversations
@@ -48,6 +55,7 @@ A feature-rich web app built using ReactJS and Tailwind CSS, integrating:
 ---
 
 ## 🎓 Certifications
+![Certification](https://source.unsplash.com/200x100/?certificate,award)
 - **Web Development Bootcamp** (By Angela Yu) - *July 2024*
 - **AWS Cloud Practitioner** (By Stephane Maarek) - *Dec 2024*
 - **Backend Development: Node & MongoDB** (By IBM) - *Dec 2024 - Jan 2025*
