@@ -1,6 +1,6 @@
 # Hi, I'm Ramji B! 👋
 
-![Developer Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codsoft.in%2Fweb-development&psig=AOvVaw0HmHrJ1wzg9asPCncXouQR&ust=1742288464322000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjpxsDgkIwDFQAAAAAdAAAAABAE)
+![Developer Banner](https://www.codsoft.in/web-development)
 
 ## 🚀 A Passionate Full Stack Developer from India
 
