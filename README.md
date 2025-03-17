@@ -1,6 +1,6 @@
 # Hi, I'm Ramji B! 👋
 
-![Developer Banner](d.webp)
+![Developer Banner](q.gif)
 
 ## 🚀 A Passionate Full Stack Developer from India
 
