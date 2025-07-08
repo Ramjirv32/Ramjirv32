@@ -27,8 +27,9 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,sql,html5 css3" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,java,js,sql,html,css" alt="Programming Languages"/>
 </p>
+
 
 ### 🛠️ Frameworks & Libraries
 <p align="left">
