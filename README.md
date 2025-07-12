@@ -1,3 +1,4 @@
+
 <div style="background-color: #000000; padding: 20px; margin: -20px;">
 
 <div align="center">
@@ -11,14 +12,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ramjirv32&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Ramjirv32)
-[![wakatime](https://wakatime.com/badge/user/0f60a7ac-1fa1-40b5-a69d-790db00b9185.svg)](https://wakatime.com/@Ramji)
-
 <a href="https://github.com/Ramjirv32" target="_blank"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ramji | GitHub" /></a>
 <a href="https://leetcode.com/u/RAMJI____B/" target="_blank"><img align="right" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Ramji | LeetCode" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' width='250'>
+
 
 <br/>
 
@@ -31,9 +31,10 @@
   <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css" alt="Programming Languages"/>
 </p>
 
+
 ### 🛠️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,nextjs" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,nextjs,Pandas,Numpy" alt="Frameworks"/>
 </p>
 
 ### 🔧 Tools & Technologies
@@ -54,12 +55,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🧠 Soft Skills
-🎯 Problem Solving  
-💬 Communication  
-🤝 Collaboration  
-🔄 Adaptability  
-📚 Continuous Learning  
-⏰ Time Management  
+🎯 Problem Solving     💬 Communication      🤝 Collaboration
+🔄 Adaptability       📚 Continuous Learning ⏰ Time Management
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -76,9 +74,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ⏱️ Weekly WakaTime Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<!-- Once WakaTime is set up, replace the above with:
+[![wakatime](https://wakatime.com/badge/user/0f60a7ac-1fa1-40b5-a69d-790db00b9185.svg)](https://wakatime.com/@Ramji)
+
+text
+JavaScript   25 hrs 30 mins  ████████████████████▓░░░░   82.50%
+React        8 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70%
+CSS          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░░   12.15%
+SQL          2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10%
+Java         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   05.65%
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -112,35 +118,6 @@
   </a>
 </div>
 
+
 </div>
-```
-
-Now, create the GitHub workflow file to automatically update your WakaTime stats:
-
-```yaml project="GitHub Profile README" file=".github/workflows/wakatime.yml" type="code"
-name: WakaTime Readme
-
-on:
-  schedule:
-    - cron: "0 * * * *" # updates every hour
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_PROFILE: true
-          SHOW_TIMEZONE: true
-          SHOW_EDITORS: false
-          SHOW_LANGUAGE_PER_REPO: false
-          SHOW_PROJECTS: false
-          SHOW_OS: false
-          SHOW_SHORT_INFO: false
+ ir is nt giving my current year contirbution
