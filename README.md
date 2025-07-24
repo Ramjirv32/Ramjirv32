@@ -39,7 +39,7 @@
 
 ### 🔧 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mongodb,postgres,postman,vscode,firebase,aws,linux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,mongodb,postgres,postman,vscode,firebase,aws,linux,Cloudfare,wordpress,supabase" alt="Tools"/>
 </p>
 
 ### 🎨 Additional Skills
