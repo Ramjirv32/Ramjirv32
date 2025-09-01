@@ -98,7 +98,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
+
+<!--START_SECTION:waka--ff>
 ```text
 JavaScript   25 hrs 30 mins  ████████████████████▓░░░░   82.50%
 React        8 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70%
