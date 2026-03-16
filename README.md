@@ -96,6 +96,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Certifications
 <p align="center">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
   <img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHCSA - Red Hat Certified System Administrator"/>
   <img src="https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations"/>
 </p>
